@@ -1,0 +1,8 @@
+{"name": "Eyaxx",
+"score": 213,
+"category": "Misc",
+"grader": "misc/eyaxx/grader.py",
+"description": "Check out this new <a href='/problem-static/misc/eyaxx/eyaxx.txt'>number system!</a>",
+"threshold": 0,
+"weightmap": {},
+"hint": "Look for multiples of 2s. The number system is pseudo-base2. Try to find patterns in the numbers given and look for pairs of similar numbers. If it helps, you can think of 2 as 'ay' and 5 as 'eyx'."}

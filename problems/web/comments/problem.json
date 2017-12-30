@@ -1,0 +1,8 @@
+{"name": "Comments 2",
+"score": 20,
+"category": "Web",
+"grader": "web/comments2/grader.py",
+"description": "Time for a bit more of a challenge. I heard the flag was somewhere on <a href='/problem-static/web/comments2/index.html' target='_blank'>this webpage</a>.",
+"threshold": 0,
+"weightmap": {},
+"hint": "Where else can there be comments?"}

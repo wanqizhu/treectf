@@ -1,0 +1,8 @@
+{"name": "-b",
+"score": 50,
+"category": "Crypto",
+"grader": "crypto/minusb/grader.py",
+"description": "To bee or not to bee, that is the question. Can you figure out Polybius' <a href='/problem-static/crypto/minusb/-b.txt' target='_blank'>answer?</a>",
+"threshold": 0,
+"weightmap": {},
+"hint": "Roses are red. Violets are blue. Without those bees. A square can finally be formed."}

@@ -1,0 +1,8 @@
+{"name": "Obfuscated Python 2",
+"score": 120,
+"category": "Reversing",
+"grader": "reversing/obfuscated_python2/grader.py",
+"description": "<a href='/problem-static/reversing/obfuscated_python2/obfuscated_python2.py'>Antigravity!</a> Where did it <a href='/problem-static/reversing/obfuscated_python2/obfuscated_python2.out'>go?</a>",
+"threshold": 0,
+"weightmap": {},
+"hint": "Some randomness isn't so random after all."}

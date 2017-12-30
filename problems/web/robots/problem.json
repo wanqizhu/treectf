@@ -1,0 +1,10 @@
+{
+"name": "Robots",
+"score": 30,
+"category": "Web",
+"grader": "web/robots/grader.py",
+"description": "I saved the flag on one of the pages on <a href='http://ec2-52-35-36-1.us-west-2.compute.amazonaws.com:3000' target='_blank'>this webpage</a>, but I forgot where and I can't seem to find it on Google. Can you find it for me?",
+"threshold": 0,
+"weightmap": {},
+"hint": "Googling parts of the problem might will give you hints, but you won't be able to find the hidden page itself. Why?"
+}

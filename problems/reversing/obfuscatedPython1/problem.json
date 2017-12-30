@@ -1,0 +1,8 @@
+{"name": "Obfuscated Python 1",
+"score": 50,
+"category": "Reversing",
+"grader": "reversing/obfuscated_python1/grader.py",
+"description": "What a pretty <a href='/problem-static/reversing/obfuscated_python1/obfuscated_python1.py'>joker face!</a> The flag is a single word",
+"threshold": 0,
+"weightmap": {},
+"hint": "Wouldn't it be a shame if the function returned something."}

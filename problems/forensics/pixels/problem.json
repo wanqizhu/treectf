@@ -1,0 +1,10 @@
+{
+"name": "Pixels",
+"score": 40,
+"category": "Forensics",
+"grader": "forensics/pixels/grader.py",
+"description": "Something is wrong with <a href='/problem-static/forensics/pixels/lab.png' target='_blank'>this image</a>. Can you find the hidden flag?",
+"threshold": 0,
+"weightmap": {},
+"hint": "Look closely. RGB, not hex."
+}

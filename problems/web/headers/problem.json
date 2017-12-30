@@ -1,0 +1,8 @@
+{"name": "Web Head",
+"score": 30,
+"category": "Web",
+"grader": "web/headers/grader.py",
+"description": "Don't lose your <a href='/problem-static/web/headers/index.html'>head</a>!",
+"threshold": 0,
+"weightmap": {},
+"hint": "Are you sure you're looking at the correct headers?"}

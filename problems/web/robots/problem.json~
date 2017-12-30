@@ -1,0 +1,10 @@
+{
+"name": "Robots",
+"score": 30,
+"category": "Web",
+"grader": "web/robots/grader.py",
+"description": "I hid my flag on a page on <a href='http://ec2-52-35-36-1.us-west-2.compute.amazonaws.com:3000' target='_blank'>this webpage</a>. You won't be able to find the page on google.",
+"threshold": 0,
+"weightmap": {},
+"hint": "Googling parts of the problem might will give you hints, but you won't be able to find the hidden page itself."
+}
