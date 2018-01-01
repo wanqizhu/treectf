@@ -1,8 +1,0 @@
-{"name": "Shifty",
-"score": 110,
-"category": "Crypto",
-"grader": "crypto/shifty/grader.py",
-"description": "Caesar is back for more, this time with numbers! Can you figure out his <a href='/problem-static/crypto/shifty/shifty.txt'>message?</a>",
-"threshold": 2,
-"weightmap": {"Ides of March": 1, "The Nones of March":1, "Scrambled Eggs": 1},
-"hint": "The numbers and letters shift on different modulus."}

@@ -1,8 +1,0 @@
-{"name": "Onions",
-"score": 70,
-"category": "Forensics",
-"grader": "forensics/onions/grader.py",
-"description": "Onions onions onions <a href='/problem-static/forensics/onions/onion.jpg' target='_blank'>onions</a> onions onions",
-"threshold": 0,
-"weightmap": {},
-"hint": "Onions have many layers. Consider using a hex editor to find this one's."}

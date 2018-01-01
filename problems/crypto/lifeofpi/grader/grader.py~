@@ -1,5 +1,0 @@
-def grade(arg, key):
-	if "labCTF{caesaR_be_prOud_iT's_13}" == key:
-		return True, "Correct"
-	else:
-		return False, "Incorrect"
