@@ -1,8 +1,0 @@
-{"name": "Life of Pi",
-"score": 31.4,
-"category": "Crypto",
-"grader": "crypto/lifeofpie/grader.py",
-"description": "We heard you like <code>pies</code> -- oh by the way, that's <code>328 480 982 2306</code>. We decided to cook some more: what is <code>865 70 067 78 280 640 938 67 823 982 70 651 937 328 709 11 480 2306 11 067 982 2306 306 11 328 480 982 844</code>?",
-"threshold": 0,
-"weightmap": {},
-"hint": "It's a pretty boring life, you know, to find these digits in a <a href='http://www.geom.uiuc.edu/~huberty/math5337/groupe/digits.html' target='_blank'>haystack.</a>"}

@@ -1,8 +1,0 @@
-{"name": "The Nones of March",
-"score": 30,
-"category": "Crypto",
-"grader": "crypto/caesar2/grader.py",
-"description": "Caesar learned some math and now thinks he's smart! How smart is he though? 398 454 454 365 454 444 440 365 436 444 449 365 438 449 366 365 431 320 321 390 317 303 456 322 320 434 448 320 447 328 431 444 441 434 433 328 443 440 432 321 434 447 448 328 383 458",
-"threshold": 0,
-"weightmap": {},
-"hint": "If caesar cipher shifted letters, what would it do to numbers?"}

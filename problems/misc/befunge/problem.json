@@ -1,8 +1,0 @@
-{"name": "InPUT nOT FOUnD",
-"score": 80,
-"category": "Misc",
-"grader": "misc/befunge/grader.py",
-"description": "I'm befuddled by <a href='/problem-static/misc/befunge/InPUTnOTFOUnD'>befunge.</a>",
-"threshold": 0,
-"weightmap": {},
-"hint": "<a href='https://esolangs.org/wiki/Befunge'>Befunge</a>. The input is 3 characters."}

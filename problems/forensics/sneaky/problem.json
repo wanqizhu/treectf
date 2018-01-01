@@ -1,8 +1,0 @@
-{"name": "Sneaky",
-"score": 20,
-"category": "Forensics",
-"grader": "forensics/sneaky/grader.py",
-"description": "<a href='/problem-static/forensics/sneaky/sneaky.zip'>Sneaky sneaky</a>",
-"threshold": 0,
-"weightmap": {},
-"hint": "<code>ls</code>  might help you here."}
