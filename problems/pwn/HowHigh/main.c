@@ -11,7 +11,7 @@ void vulnFun() {
 }
 
 void jump() {
-    char buff[30];
+    char buff[10];
     printf("You say jump.\n");
     printf("I say how high.\n");
     printf("How high?: ");
