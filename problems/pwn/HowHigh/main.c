@@ -5,7 +5,7 @@
 
 void vulnFun() {
     char *argv[] = {"/bin/sh", 0};
-    char *envp[] = {0}; 
+    char *envp[] = {0};
 
     execve("/bin/sh", argv, envp);
 }

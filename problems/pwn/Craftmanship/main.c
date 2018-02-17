@@ -5,9 +5,9 @@
 
 
 void craft() {
-    char buff[100];
+    char buff[0x400];
     printf("Show me your crafting skills: ");
-    fgets(buff, 200, stdin);
+    fgets(buff, 0x4a0, stdin);
     printf("You have much to learn grasshopper.\n");
 }
 
