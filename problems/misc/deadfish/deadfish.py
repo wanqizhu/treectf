@@ -79,12 +79,22 @@ print(flag1, decode(flag1))
 
 # start with the accumulator in the middle
 flag2 = encode("treeCTF{s*ome_**sh_is*mor*_delic*o*s_than_<3}", 42)
-print(flag2, decode(flag2, 42))
-# obfuscation
-flag2 = [c for c in flag2]
-for i in range(0, len(flag2), 13):
-    flag2[i] = '*'
-for i in range(0, len(flag2), 37):
-    flag2[i] = '*'
-flag2 = ''.join(flag2)
-print(flag2)
+#print(flag2, decode(flag2, 42))
+# # obfuscation
+# getting rid of random chars is TOO HARD
+# flag2 = [c for c in flag2]
+# for i in range(0, len(flag2), 13):
+#     flag2[i] = '*'
+# for i in range(0, len(flag2), 37):
+#     flag2[i] = '*'
+# flag2 = ''.join(flag2)
+
+# for i in range(150, len(flag2)):
+#     try:
+#         print(decode(flag2[:i-2] + 's' + flag2[i-1:], 42))
+#         print(i)
+#     except:
+#         pass
+''
+print(decode(flag2[:287] + 's' + flag2[288:], 42))
+print(flag2[:287] + 's' + flag2[288:])
