@@ -25,6 +25,6 @@ for c in flag:
 
 # decode
 
-# f = open("life_of_pi.txt", "r").read().strip().split('\n')
+# f = open("../life_of_pi.txt", "r").read().strip().split('\n')
 
 # print(''.join(chr(pi.index(i)) for i in f))
