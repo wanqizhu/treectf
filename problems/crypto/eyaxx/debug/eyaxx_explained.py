@@ -13,8 +13,8 @@ This language "eyaxx" basically only cares about powers of 2.
 4 ey
 5 ex
 8 iy
-16 ox
-32 ux
+16 oy
+32 uy
 
 Now, if a number n is of the form n = 2^k * m, where m is odd and k < 6, then n is written as
 
