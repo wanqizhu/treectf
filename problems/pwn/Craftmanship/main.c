@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 
-
 void craft() {
     char buff[100];
     printf("Show me your crafting skills: ");

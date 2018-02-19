@@ -123,7 +123,7 @@ class Config(object):
 
 
 class TestingConfig(Config):
-    SECRET_KEY = 'AAAAAAAAAAAAAAAAAAAA'
+    SECRET_KEY = '\x1d5\xec7\x9a1$\xd1\xbd\xca\x03K\x15lS\x07N\xb1\x97L\x90\xd1\x82\xd8\x9cwL\xf3\xf8\xbb\xd4U'
     PRESERVE_CONTEXT_ON_EXCEPTION = False
     TESTING = True
     DEBUG = True
